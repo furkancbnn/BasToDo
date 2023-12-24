@@ -1,10 +1,8 @@
 Detaylandırılmış JS açıklama:
 
 1. **HTML Yapısını Oluştur:**
-   - Gerekli HTML elementlerini oluştur: Bir başlık (h1), bir form içinde bir metin girişi (input) ve iki adet buton (submit) bulunmalıdır. Ayrıca, bir liste için bir `div` container ekleyin.
 
 2. **JavaScript Dosyasını Bağla:**
-   - HTML dosyan ile JavaScript dosyanı doğru bir şekilde bağla. Script etiketini kullanarak JavaScript dosyanı belirtmeyi unutma.
 
 3. **Değişken İsimlendirmesi:**
    - İlgili HTML elementlerine JavaScript'ten erişebilmek için değişkenlere uygun isimleri ver. Örneğin, "addToDo" butonu için bir değişken oluştur.
